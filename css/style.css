@@ -13,6 +13,11 @@
     font-weight: 200;
 }
 
+.a7:hover {
+    text-decoration: none;
+}
+
+
 .a8 {
     color: #001797;
     transition: .4s;
